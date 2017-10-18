@@ -1,0 +1,23 @@
+*{ margin: 0; padding: 0; }
+
+.food {
+  position: relative;
+  background-image: url("steak.jpg");
+}
+
+
+h2 {
+  position: absolute;
+  top: 300px;
+  width: 200px;
+  font-size: 80px;
+  background-color: white;
+}
+.pic {
+  position: relative;
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
